@@ -1,0 +1,27 @@
+,weather_df index,city,country,latitude,longitude,max_temp,humidity,cloudiness,windspeed,date,hotel_name
+0,8,Kahama,TZ,-3.8333,32.6,75.88,40,83,1.86,1628879178,Submarine Hotels LTD
+1,20,Atherton,GB,53.5237,-2.4935,69.44,64,28,11.12,1628879084,Holiday Inn Express - Leigh Sports Village
+2,75,Karratha,AU,-20.7377,116.8463,65.62,35,0,11.54,1628879195,Karratha International Hotel
+3,107,Bozeman,US,45.6796,-111.0386,75.69,35,1,4.61,1628878948,Kimpton Armory Hotel Bozeman
+4,110,Rawson,AR,-43.3002,-65.1023,65.37,21,0,9.73,1628879204,Casa de mar
+5,154,Tocopilla,CL,-22.092,-70.1979,66.04,65,12,10.83,1628879217,Hotel Galvarino
+6,197,Chibombo,ZM,-14.6569,28.0706,67.82,24,0,7.4,1628879229,Chibombo District Council Guest House
+7,200,Vila Franca do Campo,PT,37.7167,-25.4333,77.41,69,4,9.73,1628879230,Pestana Bahia Praia
+8,207,Ostrów Mazowiecka,PL,52.8024,21.8951,67.62,68,72,7.61,1628879232,Hotel Dworek Nad Stawem
+9,210,Baiyin,CN,36.5583,104.2081,65.28,52,78,4.14,1628879232,Kinghood Joyway Hotel
+10,261,Port-Cartier,CA,50.0334,-66.8654,72.93,65,63,6.08,1628879246,Le Q'Artier
+11,269,Piaçabuçu,BR,-10.4056,-36.4344,77.34,69,16,10.87,1628879249,"Marinas Club: Restaurante, Pousada e Marina"
+12,300,San José Iturbide,MX,21.0,-100.3833,75.6,53,45,5.82,1628879257,Hotel Mansión de San José
+13,309,Sol'-Iletsk,RU,51.1631,54.9918,66.15,28,31,4.9,1628879260,Alexandria56 hotel
+14,315,Kakonko,TZ,-3.2828,30.9642,75.07,49,89,4.12,1628879261,Edward Memorial Guest House
+15,353,Vuktyl,RU,63.8567,57.3094,70.2,55,81,11.99,1628879272,Mini-Hotel Lokomotiv
+16,356,Norwich,GB,52.6278,1.2983,71.47,63,20,12.66,1628879035,"Sprowston Manor Hotel, Golf & Country Club"
+17,374,Agadir,MA,30.4202,-9.5982,77.45,48,12,5.5,1628879277,Sofitel Agadir Thalassa sea & spa
+18,378,Varna,BG,43.2167,27.9167,71.74,64,0,4.61,1628879279,Rosslyn Dimyat Hotel Varna
+19,418,Prado,BR,-17.3411,-39.2208,75.87,60,8,7.65,1628879291,POUSADA PONTA DE AREIA - PRADO - BAHIA - HOSPEDAGEM E HOTEL
+20,446,Pangai,TO,-19.8,-174.35,69.91,60,20,10.36,1628879299,Ha'apai Beach Resort
+21,456,Nipawin,CA,53.3668,-104.0009,75.24,35,1,10.36,1628879292,Tobin Lake Motel
+22,465,Loreto,MX,22.2667,-101.9667,74.97,32,83,7.99,1628879304,Hotel San Miguel
+23,466,Caravelas,BR,-17.7125,-39.2481,76.53,57,14,7.65,1628879305,Pousada Encanto Abrolhos
+24,503,Kalemie,CD,-5.9475,29.1947,75.65,63,34,1.25,1628879314,Tcham Hotel
+25,506,Flin Flon,CA,54.7682,-101.865,67.84,42,75,4.61,1628879167,Victoria Inn Flin Flon
