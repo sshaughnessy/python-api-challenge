@@ -1,0 +1,9 @@
+r^2 observations
+1. r value indicates there is no significant relationship between latitude and cloudiness in the northern hemisphere.
+2. r value indicates no significant relationship between windspeed and latitude in the northern hemisphere.
+3. r value indicates no significant relationship between humidity % and latitude in the northern hemisphere. 
+
+general observations
+1. highest temps occur near the equator
+2. southern hemisphere wind speed mildly correlated to latitude (r^2 =.16), which may be related to the wide swaths of open ocean in the southern hemisphere
+3. based on the southern and nothern hemisphere regressions, it doesn't seem like you can escape humidity
